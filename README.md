@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Twitter BOT | <i>Simple Twitter Autoreply</i></h3>
+<h3 align="center">Twitter BOT | <i>Simple Tweet Autoreply</i></h3>
 
 <p align="center">
   <!-- Contributions -->
