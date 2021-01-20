@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zckyachmd/twitter-autoreply">
-    <img src="https://raw.githubusercontent.com/zckyachmd/twitter-panel/master/assets/img/twitter-logo.png" width="256px" height="256px" alt="Twitter Logo">
+    <img src="https://raw.githubusercontent.com/zckyachmd/twitter-autoreply/master/assets/img/twitter-logo.png" width="256px" height="256px" alt="Twitter Logo">
   </a>
 </p>
 
@@ -14,27 +14,27 @@
   </a>
  <!-- Last Commit -->
   <a href="https://github.com/zckyachmd/twitter-autoreply">
-    <img src="https://img.shields.io/github/last-commit/zckyachmd/twitter-panel"
+    <img src="https://img.shields.io/github/last-commit/zckyachmd/twitter-autoreply"
       alt="Last Commit" />
   </a>
  <!-- issues -->
   <a href="https://github.com/zckyachmd/twitter-autoreply/issues">
-    <img src="https://img.shields.io/github/issues/zckyachmd/twitter-panel.svg"
+    <img src="https://img.shields.io/github/issues/zckyachmd/twitter-autoreply.svg"
       alt="Issues" />
   </a>
   <!-- Forks Status -->
   <a href="https://github.com/zckyachmd/twitter-autoreply/network/members">
-    <img src="https://img.shields.io/github/forks/zckyachmd/twitter-panel.svg"
+    <img src="https://img.shields.io/github/forks/zckyachmd/twitter-autoreply.svg"
       alt="Forks Status" />
   </a>
  <!-- Size -->
   <a href="https://github.com/zckyachmd/twitter-autoreply">
-    <img src="https://img.shields.io/github/repo-size/zckyachmd/twitter-panel"
+    <img src="https://img.shields.io/github/repo-size/zckyachmd/twitter-autoreply"
       alt="Size" />
   </a>
  <!-- License -->
   <a href="https://github.com/zckyachmd/twitter-autoreply/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/zckyachmd/twitter-panel.svg"
+    <img src="https://img.shields.io/github/license/zckyachmd/twitter-autoreply.svg"
       alt="License MIT" />
   </a>
 </p>
