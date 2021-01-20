@@ -46,7 +46,7 @@
 1. Download latest version source code
 2. Get Consumer Key & Secret on [apps.twitter.com](https://apps.twitter.com)
 3. Configuration Database, Config & Var Constants
-4. Set cron job per 1 minute => curl 'https://127.0.0.1/twitter-autoreply/cron'
+4. Set cron job / 1 minute => curl 'https://127.0.0.1/twitter-autoreply/cron'
 5. Ready to use!
 
 ## Built Using
@@ -63,7 +63,7 @@
 
 ## Download
 
-- [Twitter Panel 1.0](https://github.com/zckyachmd/twitter-autoreply/releases/download/1.0/twitter-autoreply.zip) - latest version
+- [Twitter Auto Reply 1.0](https://github.com/zckyachmd/twitter-autoreply/releases/download/1.0/twitter-autoreply.zip) - latest version
 
 ## Bug Report <a name = "bugs"></a>
 
