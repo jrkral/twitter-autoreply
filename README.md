@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/zckyachmd/twitter-panel">
+  <a href="https://github.com/zckyachmd/twitter-autoreply">
     <img src="https://raw.githubusercontent.com/zckyachmd/twitter-panel/master/assets/img/twitter-logo.png" width="256px" height="256px" alt="Twitter Logo">
   </a>
 </p>
@@ -8,32 +8,32 @@
 
 <p align="center">
   <!-- Contributions -->
-  <a href="https://github.com/zckyachmd/twitter-panel">
+  <a href="https://github.com/zckyachmd/twitter-autoreply">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
       alt="Contributions welcome" />
   </a>
  <!-- Last Commit -->
-  <a href="https://github.com/zckyachmd/twitter-panel">
+  <a href="https://github.com/zckyachmd/twitter-autoreply">
     <img src="https://img.shields.io/github/last-commit/zckyachmd/twitter-panel"
       alt="Last Commit" />
   </a>
  <!-- issues -->
-  <a href="https://github.com/zckyachmd/twitter-panel/issues">
+  <a href="https://github.com/zckyachmd/twitter-autoreply/issues">
     <img src="https://img.shields.io/github/issues/zckyachmd/twitter-panel.svg"
       alt="Issues" />
   </a>
   <!-- Forks Status -->
-  <a href="https://github.com/zckyachmd/twitter-panel/network/members">
+  <a href="https://github.com/zckyachmd/twitter-autoreply/network/members">
     <img src="https://img.shields.io/github/forks/zckyachmd/twitter-panel.svg"
       alt="Forks Status" />
   </a>
  <!-- Size -->
-  <a href="https://github.com/zckyachmd/twitter-panel">
+  <a href="https://github.com/zckyachmd/twitter-autoreply">
     <img src="https://img.shields.io/github/repo-size/zckyachmd/twitter-panel"
       alt="Size" />
   </a>
  <!-- License -->
-  <a href="https://github.com/zckyachmd/twitter-panel/blob/master/LICENSE">
+  <a href="https://github.com/zckyachmd/twitter-autoreply/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/zckyachmd/twitter-panel.svg"
       alt="License MIT" />
   </a>
@@ -46,7 +46,8 @@
 1. Download latest version source code
 2. Get Consumer Key & Secret on [apps.twitter.com](https://apps.twitter.com)
 3. Configuration Database, Config & Var Constants
-4. Ready to use!
+4. Set cron job per 1 minute => curl 'https://127.0.0.1/twitter-autoreply/cron'
+5. Ready to use!
 
 ## Built Using
 
@@ -57,21 +58,19 @@
 
 ## Feature <a name = "feature"></a>
 
-- [x] Auto Follow
-- [x] Auto Retweet
-- [x] Auto Like
+- [x] Auto Reply Tweet
+- [ ] Auto Reply Tweet with Keyword
 
 ## Download
 
-- [Twitter Panel 2.0](https://github.com/zckyachmd/twitter-panel/releases/download/2.0/twitter-panel.zip) - latest version
-- [Twitter Panel 1.0](https://github.com/zckyachmd/twitter-panel/releases/download/1.0/twitter-panel.zip) - April 26, 2020
+- [Twitter Panel 1.0](https://github.com/zckyachmd/twitter-autoreply/releases/download/1.0/twitter-autoreply.zip) - latest version
 
 ## Bug Report <a name = "bugs"></a>
 
-If you find a bug, kindly open an issue [here](https://github.com/zckyachmd/twitter-panel/issues/new/choose). Thank you
+If you find a bug, kindly open an issue [here](https://github.com/zckyachmd/twitter-autoreply/issues/new/choose). Thank you
 
 ## License <a name = "license"></a>
 
 The MIT License (MIT)
 
-Copyright © 2020 [@zckyachmd](https://github.com/zckyachmd)
+Copyright © 2021 [@zckyachmd](https://github.com/zckyachmd)

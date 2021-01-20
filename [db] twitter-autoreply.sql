@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Jan 20, 2021 at 06:55 PM
+-- Generation Time: Jan 20, 2021 at 09:14 PM
 -- Server version: 5.7.24
 -- PHP Version: 7.4.13
 
@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `twitter-panel`
+-- Database: `twitter-autoreply`
 --
-CREATE DATABASE IF NOT EXISTS `twitter-panel` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `twitter-panel`;
+CREATE DATABASE IF NOT EXISTS `twitter-autoreply` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `twitter-autoreply`;
 
 -- --------------------------------------------------------
 
@@ -34,7 +34,9 @@ CREATE TABLE `users` (
   `id` varchar(50) NOT NULL,
   `username` varchar(15) NOT NULL,
   `oauth_token` varchar(50) NOT NULL,
-  `oauth_token_secret` varchar(50) NOT NULL
+  `oauth_token_secret` varchar(50) NOT NULL,
+  `tweet` int(11) DEFAULT NULL,
+  `reply` varchar(280) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
