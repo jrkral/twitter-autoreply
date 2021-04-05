@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zckyachmd/twitter-autoreply">
-    <img src="https://raw.githubusercontent.com/zckyachmd/twitter-autoreply/master/assets/img/twitter-logo.png" width="256px" height="256px" alt="Twitter Logo">
+    <img src="https://raw.githubusercontent.com/zckyachmd/twitter-autoreply/main/assets/img/twitter-logo.png" width="256px" height="256px" alt="Twitter Logo">
   </a>
 </p>
 
