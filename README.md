@@ -45,9 +45,10 @@
 
 1. Download latest version source code
 2. Get Consumer Key & Secret on [apps.twitter.com](https://apps.twitter.com)
-3. Configuration Database, Config & Var Constants
-4. Set cron job / 1 minute => curl 'https://127.0.0.1/twitter-autoreply/cron'
-5. Ready to use!
+3. Set Callback on Apps Twitter to => 'http://domain.com/auth/callback'
+4. Configuration Database, Config & Var Constants
+5. Set cron job / 1 minute => curl 'http://domain.com/cron'
+6. Ready to use!
 
 ## Built Using
 
